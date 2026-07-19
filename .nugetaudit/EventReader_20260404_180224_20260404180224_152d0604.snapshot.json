@@ -1,0 +1,38 @@
+{
+  "SnapshotId": "20260404180224_152d0604",
+  "CapturedUtc": "2026-04-04T18:02:24.1294837+00:00",
+  "NormalisedContentHash": "02F19943B0B65DE1E5714AE8FB4778E9FF28F1ADFC8578ACDADF070C65107B5D",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "EventReader",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\EventReader\\EventReader.csproj",
+    "SolutionKey": "68A1C125EC10CB10",
+    "SourceIdentity": {
+      "IdentityKey": "68A1C125EC10CB10",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\EventReader\\EventReader.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\EventReader",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "9E86D2A73F979759",
+      "ProjectName": "EventReader",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\EventReader\\EventReader.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": null,
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    }
+  ],
+  "Warnings": []
+}
