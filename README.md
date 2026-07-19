@@ -1,4 +1,6 @@
-﻿# EventReader
+﻿> **Attribution notice:** This project originates from code by **Marc Merritt** (2003). VaderConsulting does not claim the original code as their own work. See [LICENSE](LICENSE) for details.
+
+# EventReader
 
 A lightweight Windows system tray utility that monitors the Windows Event Log in real time and delivers balloon-tip notifications when matching events are written.
 
