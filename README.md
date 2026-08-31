@@ -4,6 +4,8 @@
 
 A lightweight Windows system tray utility that monitors the Windows Event Log in real time and delivers balloon-tip notifications when matching events are written.
 
+**Source last updated:** 2020-01-21
+
 **Initiated:** 2020-01-21 · **Framework:** .NET Framework 4.7.2, Windows Forms · **Solution:** `EventReader.sln`
 
 ---
