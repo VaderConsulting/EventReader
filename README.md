@@ -42,3 +42,8 @@ EventReader/
 +-- NotifyIconEx.cs      # Extended NotifyIcon with balloon click events
 +-- RegHelper.cs         # Registry read/write helper
 ```
+
+## Requirements
+
+- Visual Studio 2017, .NET Framework 4.7.2
+
