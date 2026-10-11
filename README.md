@@ -1,6 +1,6 @@
 # EventReader
 
-﻿> **Attribution notice:** This project originates from code by **Marc Merritt** (2003). VaderConsulting does not claim the original code as their own work. See [LICENSE](LICENSE) for details.
+﻿> **Attribution notice:** This project originates from code by **Marc Merritt** (2003). Vader Consulting does not claim the original code as their own work. See [LICENSE](LICENSE) for details.
 
 **Source last updated:** 2020-01-21 · **Language:** C# / VB.NET · **Target:** see projects · **Output:** see projects
 
@@ -25,4 +25,4 @@ Working copy from my Historical Dev folder `EventReader`.
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+MIT © 2026 Vader Consulting for Dave Robinson's code. See `LICENSE`.
